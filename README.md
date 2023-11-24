@@ -1,2 +1,2 @@
 # Shopping-Trends-Analysis
-This Analysis made by me with help of Excel
+This Analysis made by me with the help of Excel
